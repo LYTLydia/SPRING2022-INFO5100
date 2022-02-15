@@ -1,6 +1,6 @@
 package neu.lydia;
 
-public class Main {
+public class Assignment2 {
 
     public static void main(String[] args) {
 	// write your code here
